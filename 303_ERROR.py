@@ -38,4 +38,4 @@ async def rand(ctx, *arg):
 
     
     
-bot.run('MTI2OTk2MDU4Mjc3ODU4OTIyNQ.G1GSgZ.yhRB5qd3EjGFaDwyaTcw99DuWCmXJJRm1OebYc')
+bot.run('your token')
